@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cgallegoan
+- 👀 I’m interested in Robotic Proccess Automation, Crypto and Machine Learning 
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: @cgallegoan in Linkedin, Kaggle, Medium, Tableau Public and Github!
