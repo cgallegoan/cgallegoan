@@ -1,5 +1,5 @@
 Hi, I’m Carlos Gallego, Data Science student at UPV
-I’m interested in Robotic Proccess Automation, Crypto and Machine Learning.
+- I’m interested in Robotic Proccess Automation, Crypto and Machine Learning.
 
 Reach me! @cgallegoan in 
     * [Linkedin](https://www.linkedin.com/in/cgallegoan/)
