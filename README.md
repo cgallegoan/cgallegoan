@@ -7,4 +7,3 @@
     * [Medium](https://medium.com/@cgallegoan)
     * [Tableau Public](https://public.tableau.com/app/profile/carlos.gallego.andreu)
     * [Twitter](https://twitter.com/Carlo0os_)
-    ... and Github!
